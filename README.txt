@@ -6,4 +6,6 @@ fish will double your max speed and eating a blue fish will double your fish's s
 The bigger the fish you eat, the more your score will increase by. Your fish will accelerate
 based off of your size and will have inertia based on size once you let go of the arrow key.
 The rate at which your fish slows down is also based off of size. The maximum speed is 8 pixels
-every time the button is pressed.
+every time the button is pressed. In order to run this code please add the tester.jar and the 
+javalib.jar in dependencies. You also need to edit the run configuration put tester.Main as the
+main class and ExamplesFish in the program arguements
